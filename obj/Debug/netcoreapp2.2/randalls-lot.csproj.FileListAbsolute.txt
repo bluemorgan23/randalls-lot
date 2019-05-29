@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/bin/Debug/netcoreapp2.2/randalls-lot.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/bin/Debug/netcoreapp2.2/randalls-lot.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/bin/Debug/netcoreapp2.2/randalls-lot.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/bin/Debug/netcoreapp2.2/randalls-lot.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/bin/Debug/netcoreapp2.2/randalls-lot.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/obj/Debug/netcoreapp2.2/randalls-lot.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/obj/Debug/netcoreapp2.2/randalls-lot.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/obj/Debug/netcoreapp2.2/randalls-lot.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/obj/Debug/netcoreapp2.2/randalls-lot.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/obj/Debug/netcoreapp2.2/randalls-lot.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/randalls-lot/obj/Debug/netcoreapp2.2/randalls-lot.pdb
