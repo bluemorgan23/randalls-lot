@@ -102,8 +102,6 @@ namespace randalls_lot
 
             foreach(List<Dictionary<string, Dictionary<string, string>>> vehicleCollection in vehicles.Values){
 
-                
-
                 foreach(Dictionary<string, Dictionary<string, string>> vehicleInfoValues in vehicleCollection) {
 
                     Console.WriteLine(" ");
